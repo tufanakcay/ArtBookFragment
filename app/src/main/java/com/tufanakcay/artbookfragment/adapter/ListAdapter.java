@@ -57,6 +57,7 @@ public class ListAdapter extends RecyclerView.Adapter<ListAdapter.ArtHolder> {
         });
     }
 
+    
 
     @Override
     public int getItemCount() {
